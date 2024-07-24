@@ -1,3 +1,5 @@
+👩‍💻  About Me :
+
 - 👋 Hi, I’m @magicCicero
 - 🌱 I’m working as a senior full stack developer to build elaborate and sophisticated websites or apps.
 - 👀 I’m interested in working with dynamic teams or considerate client with my passion and creativity.
