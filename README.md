@@ -21,7 +21,7 @@
 <p>
  <img align="right" width="350" src="./assets/animation.gif" alt="Coding man Cicero" />
 👯 &emsp; I’m working as a <code style="color:#9DAAF2">Senior Full Stack Developer</code>to build elaborate websites or apps.<br/><br/>
-✌️ &emsp;  I’m interested in working with <code style="color:#9DAAF2">Dynamic Teams or Considerate Client</code> with my passion.<br/><br/>
+✌️ &emsp; I’m interested in working with <code style="color:#9DAAF2">Dynamic Teams or Considerate Client</code> with my passion.<br/><br/>
 ❤️ &emsp; I like to breakthrough <code style="color:#9DAAF2">Any Challenging Projects</code><br/><br/>
 ⚡ &emsp; Fun fact: I have a good sense of humor, so it is fun to work together.
 </p>
