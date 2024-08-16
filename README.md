@@ -5,7 +5,7 @@
 </b>
 </h3>
 <p align="center">
-  <a href="https://github.com/magicCicero"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Full-stack+Webdeveloper;Tech+Enthusiast;Master+of+modern+Skills" alt="Typing SVG" /></a></a>
+  <a href="https://github.com/magicCicero"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Full-stack+Web&App+developer;Tech+Enthusiast;Master+of+modern+Skills" alt="Typing SVG" /></a></a>
 </p>
 <p align="center">     
     「 I am a full stack web application developer from <b>Brazil</b> 」
